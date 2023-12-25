@@ -28,7 +28,6 @@ My career goals revolve around becoming a proficient and highly skilled front-en
 
 📚 Sharing my insights and thoughts on tech, coding, anime, and light novels through various online platforms and communities.
 
-🏆 Striving to emulate the dedication and hard work ethic of Cristiano Ronaldo, both in my studies and my professional endeavors.
 
 Connect with Me
 Feel free to reach out and connect with me on the following platforms:
