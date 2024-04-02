@@ -13,10 +13,6 @@ Here are some of my key interests and hobbies:
 
 🌐 Technology Enthusiast: I'm constantly keeping up with the latest trends and innovations in the tech world. From new programming languages to emerging web development frameworks, I love staying up-to-date.
 
-🎌 Anime Lover: I'm a devoted anime fan and enjoy immersing myself in various anime series. From action-packed shonen to heartwarming slice-of-life, I appreciate a wide range of genres.
-
-📚 Light Novel Enthusiast: I'm an avid reader of light novels. The captivating stories, diverse characters, and imaginative worlds found in light novels have a special place in my heart.
-
 Goals
 My career goals revolve around becoming a proficient and highly skilled front-end developer. To achieve this, I'm committed to:
 
