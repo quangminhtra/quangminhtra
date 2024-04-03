@@ -1,8 +1,5 @@
 Hello! 👋 I'm Minh, a Computer Engineering student at TMU University. I'm passionate about technology and coding, 
-and I'm striving to become a professional front-end developer. Beyond the world of programming, 
-I also have a deep love for anime and light novels, which are some of my favorite things to indulge in during my free time. 
-Much like Cristiano Ronaldo's dedication and hard work in the world of sports, 
-I aim to apply the same level of commitment to my journey in the tech industry.
+and I'm striving to become a professional front-end developer. 
 
 Education
 📚 Currently pursuing a degree in Computer Engineering at TMU University.
