@@ -1,4 +1,4 @@
-Hello! 👋 I'm Minh, a Computer Engineering student at TMU University. I'm passionate about technology and coding, 
+Hello! 👋 I'm Maris, a Computer Engineering student at TMU University. I'm passionate about technology and coding, 
 and I'm striving to become a professional front-end developer. 
 
 Education
